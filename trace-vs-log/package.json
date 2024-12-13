@@ -1,0 +1,9 @@
+{
+    "name": "trace-vs-log",
+    "version": "1.0.0",
+    "description": "Demonstration of console.trace() vs console.log()",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js"
+    }
+  }
